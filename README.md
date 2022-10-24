@@ -1,2 +1,3 @@
 # Next.js-Test
-First Project Next.js
+Next JS SPA
+
